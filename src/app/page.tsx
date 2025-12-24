@@ -1,5 +1,6 @@
 import React from 'react'
-import Hero from './components/Hero/page'
+import Hero from './components/page'
+
 
 function HomePage
 () {
